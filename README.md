@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains assignments from a Data Structures and Algorithms course, taught by Professor **Mohammad Akbari** and Professor **Sajad Shirali-Shahreza**. The projects demonstrate various concepts and techniques used in solving problems related to data structures and algorithms.
+This repository contains assignments from a Data Structures and Algorithms course, taught by Dr. **Mohammad Akbari** and Dr. **Sajad Shirali-Shahreza**. The projects demonstrate various concepts and techniques used in solving problems related to data structures and algorithms.
 
 ## Projects
 
