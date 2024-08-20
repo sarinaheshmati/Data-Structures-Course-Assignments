@@ -9,6 +9,7 @@ This repository contains assignments from a Data Structures and Algorithms cours
 1. **Interval Union**
    - Computes the union of a set of intervals on the number line and outputs it in a non-overlapping, standard format.
 
+[More Details](./Thomas Algorithm/README.md)
 [More Details](./Interval Union/README.md)
 
 2. **Greedy Power Accumulation in Graphs**
